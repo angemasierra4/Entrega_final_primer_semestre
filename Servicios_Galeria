@@ -1,0 +1,52 @@
+<section class="section-servicios py-5">
+            <div class="container">
+                <h2 id="Servicios" class="titulo-seccion mb-4">NUESTROS SERVICIOS</h2>
+                <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
+
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Masaje_Flujo.png" class="card-img-top" alt="Masaje Flujo">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Masaje Flujo Glaciar</h5>
+                                <p class="card-text">Técnicas firmes y específicas alivian la tensión crónica, la rigidez y la fatiga muscular. Este masaje trabaja las zonas de mayor carga para favorecer una recuperación profunda. Ideal para personas activas o deportistas que necesitan liberar contracturas y recuperar movilidad, aliviar molestias y disfrutar de una sensación renovada de bienestar.</p>
+                                <a href="#Formulario2" class="btn btn-success mt-auto">Reservar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Masaje_Profundo.png" class="card-img-top" alt="Masaje Profundo">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Masaje Profundo de Forge</h5>
+                                <p class="card-text">Movimientos largos y fluidos, junto con una presión suave y constante, ayudan a calmar el sistema nervioso, aliviar la tensión acumulada y restablecer el equilibrio del cuerpo. Este masaje favorece la relajación, reduce el estrés cotidiano y estimula la circulación, brindando una experiencia tranquila para renovar cuerpo y mente.</p>
+                                <a href="#Formulario2" class="btn btn-success mt-auto">Reservar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Masaje_Piedras.png" class="card-img-top" alt="Masaje Piedras">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Masaje Piedras Volcánicas</h5>
+                                <p class="card-text">Las piedras de basalto calientes transmiten un calor agradable que ayuda a relajar los músculos y aliviar la tensión acumulada. La combinación del calor y las maniobras del masaje brinda bienestar, calma y descanso. Ideal para desconectarse de la rutina, liberar tensiones y disfrutar una experiencia de relajación profunda.</p>
+                                <a href="#Formulario2" class="btn btn-success mt-auto">Reservar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="card h-100">
+                            <img src="img/Mama_Fuerte.png" class="card-img-top" alt="Masaje Prenatal">
+                            <div class="card-body d-flex flex-column">
+                                <h5 class="card-title">Masaje Prenatal</h5>
+                                <p class="card-text">Masaje suave, diseñado para futuras mamás durante el segundo o tercer trimestre del embarazo. Mediante maniobras delicadas y cómodas, ayuda a aliviar la tensión muscular, reducir la sensación de hinchazón y favorecer la relajación. Una experiencia pensada para brindar calma, bienestar y descanso durante esta etapa tan especial.</p>
+                                <a href="#Formulario2" class="btn btn-success mt-auto">Reservar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
